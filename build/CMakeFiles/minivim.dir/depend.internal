@@ -3,7 +3,7 @@
 
 CMakeFiles/minivim.dir/src/cursor.cpp.o
  ../include/cursor.h
- /mnt/c/Users/ValenciaLiu/Desktop/minivim/src/cursor.cpp
+ /mnt/e/minivim/src/cursor.cpp
 CMakeFiles/minivim.dir/src/main.cpp.o
  ../include/cursor.h
  ../include/multiTrie.h
@@ -11,10 +11,10 @@ CMakeFiles/minivim.dir/src/main.cpp.o
  ../include/myFile.h
  ../include/myWindow.h
  ../include/utils.h
- /mnt/c/Users/ValenciaLiu/Desktop/minivim/src/main.cpp
+ /mnt/e/minivim/src/main.cpp
 CMakeFiles/minivim.dir/src/multiTrie.cpp.o
  ../include/multiTrie.h
- /mnt/c/Users/ValenciaLiu/Desktop/minivim/src/multiTrie.cpp
+ /mnt/e/minivim/src/multiTrie.cpp
 CMakeFiles/minivim.dir/src/myApplication.cpp.o
  ../include/cursor.h
  ../include/multiTrie.h
@@ -22,17 +22,17 @@ CMakeFiles/minivim.dir/src/myApplication.cpp.o
  ../include/myFile.h
  ../include/myWindow.h
  ../include/utils.h
- /mnt/c/Users/ValenciaLiu/Desktop/minivim/src/myApplication.cpp
+ /mnt/e/minivim/src/myApplication.cpp
 CMakeFiles/minivim.dir/src/myFile.cpp.o
  ../include/cursor.h
  ../include/myFile.h
  ../include/utils.h
- /mnt/c/Users/ValenciaLiu/Desktop/minivim/src/myFile.cpp
+ /mnt/e/minivim/src/myFile.cpp
 CMakeFiles/minivim.dir/src/myWindow.cpp.o
  ../include/cursor.h
  ../include/myWindow.h
  ../include/utils.h
- /mnt/c/Users/ValenciaLiu/Desktop/minivim/src/myWindow.cpp
+ /mnt/e/minivim/src/myWindow.cpp
 CMakeFiles/minivim.dir/src/utils.cpp.o
  ../include/utils.h
- /mnt/c/Users/ValenciaLiu/Desktop/minivim/src/utils.cpp
+ /mnt/e/minivim/src/utils.cpp
