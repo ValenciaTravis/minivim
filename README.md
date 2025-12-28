@@ -1,5 +1,12 @@
 # Minivim
 
+## build
+
+```
+cmake --build B
+cmake --build build --target minivim
+```
+
 ## 启动
 
 ```minivim [options] <filename>```
