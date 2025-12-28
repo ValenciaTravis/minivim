@@ -1,0 +1,80 @@
+# --------------------
+# 系统文件
+# --------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# --------------------
+# VSCode
+# --------------------
+.vscode/
+
+# --------------------
+# Python
+# --------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Python logs
+*.log
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# --------------------
+# Jupyter Notebook
+# --------------------
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# --------------------
+# C / C++ 编译文件
+# --------------------
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+*.out.*
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+
+# Debug / Release directories
+Debug/
+Release/
+build/
+cmake-build-*/
+
+# --------------------
+# 配置文件或敏感信息
+# --------------------
+.env
+config.json
