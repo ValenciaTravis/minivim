@@ -79,5 +79,6 @@ cmake-build-*/
 .env
 config.json
 
-bin/
-build/
+bin/*
+build/*
+.vscode/*
